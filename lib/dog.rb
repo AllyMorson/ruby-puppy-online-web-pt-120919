@@ -8,6 +8,11 @@ end
 
 
 def self.clear_all
+  
+def self.print_all 
+  
+def save 
+
 
 
 
